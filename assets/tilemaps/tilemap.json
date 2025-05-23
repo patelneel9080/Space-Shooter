@@ -1,0 +1,46 @@
+{
+  "width": 10,
+  "height": 10,
+  "tilewidth": 32,
+  "tileheight": 32,
+  "layers": [
+    {
+      "name": "Tile Layer 1",
+      "width": 10,
+      "height": 10,
+      "data": [
+        1, 1, 1, 1, 1, 1, 1, 1, 1, 1,
+        1, 0, 0, 0, 0, 0, 0, 0, 0, 1,
+        1, 0, 0, 0, 0, 0, 0, 0, 0, 1,
+        1, 0, 0, 0, 0, 0, 0, 0, 0, 1,
+        1, 0, 0, 0, 0, 0, 0, 0, 0, 1,
+        1, 0, 0, 0, 0, 0, 0, 0, 0, 1,
+        1, 0, 0, 0, 0, 0, 0, 0, 0, 1,
+        1, 0, 0, 0, 0, 0, 0, 0, 0, 1,
+        1, 0, 0, 0, 0, 0, 0, 0, 0, 1,
+        1, 1, 1, 1, 1, 1, 1, 1, 1, 1
+      ]
+    }
+  ],
+  "tilesets": [
+    {
+      "name": "tileset",
+      "tilewidth": 32,
+      "tileheight": 32,
+      "tiles": [
+        {
+          "id": 0,
+          "image": "tileset.png",
+          "imagewidth": 32,
+          "imageheight": 32
+        },
+        {
+          "id": 1,
+          "image": "tileset.png",
+          "imagewidth": 32,
+          "imageheight": 32
+        }
+      ]
+    }
+  ]
+} 
